@@ -1,0 +1,18 @@
+{
+  "target_languages": [
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "twitter_username": "your_japanese_account_username",
+      "formal_tone": false,
+      "cultural_adaptation": true
+    },
+    {
+      "code": "de",
+      "name": "German", 
+      "twitter_username": "your_german_account_username",
+      "formal_tone": false,
+      "cultural_adaptation": true
+    }
+  ]
+}
